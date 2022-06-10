@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-api",
+  "version": "0.0.1",
+  "description": "NodeJS API Studying Project",
+  "main": "index.js",
+  "repository": "https://github.com/fboliveira/nodejs-api.git",
+  "author": "Fernando B Oliveira <fbo.fernando@gmail.com>",
+  "license": "MIT"
+}
