@@ -11,6 +11,18 @@ Am I doing anything wrong? Please, let me know! Feel free to send me a message o
 - ExpressJS
 - [Prisma](https://www.prisma.io/)
 
+## Folder structure
+
+- database
+- server
+    = routes: routes - delegate to service
+    = service:
+    = controllers
+    = data: separate data and db queries.
+    = infra?
+    = test
+
+
 ## TO-DO
 
 - Dockerfile
