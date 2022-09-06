@@ -34,3 +34,10 @@ Am I doing anything wrong? Please, let me know! Feel free to send me a message o
 ## TO-DO
 
 - Dockerfile
+
+## References
+
+### API
+
+- <https://blog.geekhunter.com.br/sua-api-nao-e-restful-entenda-por-que/>
+- <https://en.wikipedia.org/wiki/Representational_state_transfer>
