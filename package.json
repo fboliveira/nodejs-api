@@ -5,5 +5,16 @@
   "main": "index.js",
   "repository": "https://github.com/fboliveira/nodejs-api.git",
   "author": "Fernando B Oliveira <fbo.fernando@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^18.7.14",
+    "prisma": "^4.3.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.2"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.3.0",
+    "express": "^4.18.1"
+  }
 }
